@@ -1,3 +1,5 @@
 Hello world!
 
 Ceci est un 2eme test
+
+Test de ma deuxième fonction
